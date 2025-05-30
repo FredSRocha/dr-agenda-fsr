@@ -9,6 +9,16 @@ Sistemas baseados em inteligência artificial generativa (IA Gen) vêm sendo amp
 ### Justificativa
 Com os recentes avanços em modelos de linguagem, especialmente aqueles com capacidade de *grounding*, chamadas de função (*function calling*) e manipulação de dados estruturados, a IA generativa passou a oferecer soluções mais sofisticadas para o preenchimento inteligente de formulários. Essa evolução não apenas melhora a precisão e a eficiência na entrada de dados, mas também proporciona uma experiência de usuário significativamente mais fluida. A presente pesquisa propõe validar o uso de entrada por texto livre — assistida por IA — como uma alternativa viável e vantajosa ao preenchimento manual tradicional em formulários eletrônicos, com ênfase na qualidade da UX resultante.
 
+### 🐐 Funcionalidade: AI Gen Form
+
+Abaixo eu demonstro a aplicabilidade da lógica interativa dessa funcionalidade, inserção de dados através de texto simples e recuperação estruturada via formulário com persistência adequada no banco de dados, ou seja, a melhor usabilidade dos recursos em todos os mundos!
+
+![AI Gen Form](https://ik.imagekit.io/fredsrocha/fsw/screen_1.png?updatedAt=1748606516208)
+![AI Gen Form](https://ik.imagekit.io/fredsrocha/fsw/screen_2.png?updatedAt=1748606516281)
+![AI Gen Form](https://ik.imagekit.io/fredsrocha/fsw/screen_3.png?updatedAt=1748606516298)
+![AI Gen Form](https://ik.imagekit.io/fredsrocha/fsw/screen_4.png?updatedAt=1748606516344)
+![AI Gen Form](https://ik.imagekit.io/fredsrocha/fsw/screen_5.png?updatedAt=1748606515920)
+
 ### Publicação
 
 Em breve.
